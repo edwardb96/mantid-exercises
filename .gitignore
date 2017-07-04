@@ -1,0 +1,5 @@
+build/
+.idea/
+.ycm_extra_conf.py
+*.swp
+Testing/
